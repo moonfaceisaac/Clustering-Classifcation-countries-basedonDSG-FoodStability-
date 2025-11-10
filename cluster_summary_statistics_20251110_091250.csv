@@ -1,0 +1,3 @@
+cluster,cluster_type,volatility_std_mean,volatility_std_std,volatility_std_min,volatility_std_max,extreme_positive_count_mean,extreme_positive_count_std,stability_inverse_volatility_mean,stability_inverse_volatility_std,num_countries
+0,Volatile Markets,2.054,2.211,0.825,14.77,2.815,1.838,0.721,0.293,81
+1,Stable Markets,0.786,0.216,0.375,1.621,0.669,0.789,1.371,0.402,121
