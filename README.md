@@ -28,5 +28,6 @@ Cluster 0 (Stable Market)
 Cluster 1 (Volatile Market)
 
 LINK PENTING:
-(DATASET) [https://data.worldbank.org/]
-(DEPLOYMENT)[https://foodstability.streamlit.app]
+[DATASET](https://data.worldbank.org/)
+[DEPLOYMENT]([https://data.worldbank.org/](https://foodstability.streamlit.app))
+
