@@ -31,5 +31,5 @@
 ### LINK PENTING:
 - [DATASET](https://data.worldbank.org/)
 
-- [DEPLOYMENT]([https://data.worldbank.org/](https://foodstability.streamlit.app))
+- [DEPLOYMENT](https://foodstability.streamlit.app)
 
